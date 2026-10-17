@@ -1,0 +1,16 @@
+=== Server System Information ===
+Date and Time: 2026-10-17 15:22:56.137760
+Operating System: Windows
+OS Release: 11
+Machine: AMD64
+Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+CPU Count: 8
+=== Disk Snapshot Report ===
+Date and Time: Sat Oct 17 15:23:12 CDT 2026
+
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G  235G  2.8G  99% /
+
+Current Directory:
+/c/Users/Sean/Documents/TheoWAF/class8/fall_20206_bootcamp
